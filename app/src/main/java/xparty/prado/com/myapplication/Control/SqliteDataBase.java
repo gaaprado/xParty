@@ -1,4 +1,4 @@
-package xparty.prado.com.myapplication.View.Control;
+package xparty.prado.com.myapplication.Control;
 
 import android.database.sqlite.SQLiteDatabase;
 
