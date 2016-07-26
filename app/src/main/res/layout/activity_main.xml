@@ -83,6 +83,7 @@
                     android:layout_below="@id/butLogin"
                     android:layout_marginTop="10dp"
                     android:layout_marginLeft="25dp"
+                    android:id="@+id/faceLogin"
                     android:text="Log in with Facebook"
                     />
 
